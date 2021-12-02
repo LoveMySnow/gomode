@@ -1,4 +1,4 @@
-package gomod
+package gomode
 
 import "fmt"
 
